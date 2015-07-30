@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Untitled RSS Feed]]></title>
+        <description><![CDATA[Untitled RSS Feed]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 30 Jul 2015 21:38:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Brain vs Deep Learning Part I: Computational Complexity - Or Why the Singularity Is Nowhere Near]]></title>
+            <description><![CDATA[<article><h1>The Brain vs Deep Learning Part I: Computational Complexity - Or Why the Singularity Is Nowhere Near</h1><p>In this blog post I will delve into the brain and explain its basic information processing machinery and compare it to deep learning. I do this by moving step-by-step along with the brains electrochemical and biological information processing pipeline and relating it directly to the architecture of convolutional nets.</p><img src="https://timdettmers.files.wordpress.com/2015/07/neuron_anatomy1.jpg?w=700"></article>]]></description>
+            <link>https://timdettmers.wordpress.com/2015/07/27/brain-vs-deep-learning-singularity/</link>
+            <guid isPermaLink="false">5dc16d2b-7153-469e-acc2-d966a443f16b</guid>
+            <pubDate>Thu, 30 Jul 2015 21:37:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
