@@ -3,13 +3,20 @@
     <channel>
         <title><![CDATA[Untitled RSS Feed]]></title>
         <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/deep-learning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jul 2015 21:38:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 01 Aug 2015 20:15:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/deep-learning/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deep Learning Playbook]]></title>
+            <description><![CDATA[<article><h1>Deep Learning Playbook</h1><p>Machine learning is the art and science of making predictions based on previous observations. Deep learning without doubt is THE hottest subfield of machine learning and it is ubiquitous in various state-of-the-art methods for problems like speech recognition (audio), object recognition (vision), natural language processing (communication).</p><img src="https://cdn-images-2.medium.com/max/800/0*pZA7YEXFFAOC9PhV.jpg"></article>]]></description>
+            <link>https://medium.com/@jiefeng/deep-learning-playbook-c5ebe34f8a1a</link>
+            <guid isPermaLink="false">85b9c042-47b3-4f60-b6f3-1695a4c08f26</guid>
+            <pubDate>Sat, 01 Aug 2015 20:14:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Brain vs Deep Learning Part I: Computational Complexity - Or Why the Singularity Is Nowhere Near]]></title>
-            <description><![CDATA[<article><h1>The Brain vs Deep Learning Part I: Computational Complexity - Or Why the Singularity Is Nowhere Near</h1><p>In this blog post I will delve into the brain and explain its basic information processing machinery and compare it to deep learning. I do this by moving step-by-step along with the brains electrochemical and biological information processing pipeline and relating it directly to the architecture of convolutional nets.</p><img src="https://timdettmers.files.wordpress.com/2015/07/neuron_anatomy1.jpg?w=700"></article>]]></description>
+            <description><![CDATA[<article><h1>The Brain vs Deep Learning Part I: Computational Complexity - Or Why the Singularity Is Nowhere Near</h1><p>In this blog post I will delve into the brain and explain its basic information processing machinery and compare it to deep learning. I do this by moving step-by-step along with the brains electrochemical and biological information processing pipeline and relating it directly to the architecture of convolutional nets.</p><img src="https://timdettmers.files.wordpress.com/2015/07/neuron_anatomy1.jpg"></article>]]></description>
             <link>https://timdettmers.wordpress.com/2015/07/27/brain-vs-deep-learning-singularity/</link>
             <guid isPermaLink="false">5dc16d2b-7153-469e-acc2-d966a443f16b</guid>
             <pubDate>Thu, 30 Jul 2015 21:37:56 GMT</pubDate>
