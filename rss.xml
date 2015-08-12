@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Untitled RSS Feed]]></title>
-        <description><![CDATA[Untitled RSS Feed]]></description>
+        <title><![CDATA[Deep Learning]]></title>
+        <description><![CDATA[Deep Learning]]></description>
         <link>https://thegrid.ai/deep-learning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 01 Aug 2015 20:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2015 20:01:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/deep-learning/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Visualizing GoogLeNet Classes]]></title>
+            <description><![CDATA[<article><h1>Visualizing GoogLeNet Classes</h1><p>Ever wondered what a deep neural network thinks a Dalmatian should look like? Well, wonder no more. Recently Google published a post describing how they managed to use deep neural networks to generate class visualizations and modify images through the so called "inceptionism" method.</p><img src="http://auduno.github.io/deepdraw/images/deepdraw_example_0013.png"></article>]]></description>
+            <link>http://auduno.com/post/125362849838/visualizing-googlenet-classes</link>
+            <guid isPermaLink="false">324911d9-c363-4d5e-ad52-c03bff50db4c</guid>
+            <pubDate>Wed, 12 Aug 2015 20:01:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Deep Learning Playbook]]></title>
             <description><![CDATA[<article><h1>Deep Learning Playbook</h1><p>Machine learning is the art and science of making predictions based on previous observations. Deep learning without doubt is THE hottest subfield of machine learning and it is ubiquitous in various state-of-the-art methods for problems like speech recognition (audio), object recognition (vision), natural language processing (communication).</p><img src="https://cdn-images-2.medium.com/max/800/0*pZA7YEXFFAOC9PhV.jpg"></article>]]></description>
