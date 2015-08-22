@@ -5,8 +5,15 @@
         <description><![CDATA[Deep Learning]]></description>
         <link>https://thegrid.ai/deep-learning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 22 Aug 2015 15:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2015 15:25:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/deep-learning/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google: Our new system for recognizing faces is the best one ever]]></title>
+            <description><![CDATA[<article><h1>Google: Our new system for recognizing faces is the best one ever</h1><p>"I never forget a face," some people like to boast. It's a claim that looks quainter by the day as artificial intelligence research continues to advance. Some computers, it turns out, never forget 260 million faces.</p><img src="https://fortunedotcom.files.wordpress.com/2015/03/google-facial-recognition-figre1.png?w=577"></article>]]></description>
+            <link>http://fortune.com/2015/03/17/google-facenet-artificial-intelligence/?utm_content=buffer9118d&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">f6896912-53e7-4f1d-9e2a-82969198eedd</guid>
+            <pubDate>Sat, 22 Aug 2015 15:24:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Facebook AI Director Yann LeCun on His Quest to Unleash Deep Learning and Make Machines Smarter]]></title>
             <description><![CDATA[<article><h1>Facebook AI Director Yann LeCun on His Quest to Unleash Deep Learning and Make Machines Smarter</h1><p>Artificial intelligence has gone through some dismal periods, which those in the field gloomily refer to as "AI winters." This is not one of those times; in fact, AI is so hot right now that tech giants like Google, Facebook, Apple, Baidu, and Microsoft are battling for the leading minds in the field.</p><img src="http://spectrum.ieee.org/img/YannLeCunblogjpg-1423239900596.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Deep Learning Adversarial Examples - Clarifying Misconceptions</h1><p>Google scientist clarifies misconceptions and myths around Deep Learning Adversarial Examples, including: they do not occur in practice, Deep Learning is more vulnerable to them, they can be easily solved, and human brains make similar mistakes. By Ian Goodfellow (Google).</p><img src="http://www.kdnuggets.com/images/panda.png"></article>]]></description>
             <link>http://www.kdnuggets.com/2015/07/deep-learning-adversarial-examples-misconceptions.html</link>
             <guid isPermaLink="false">aa81d114-f168-413d-8c58-fb06e1cc8541</guid>
-            <pubDate>Sat, 22 Aug 2015 15:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introduction to Neural Machine Translation with GPUs (part 3)]]></title>
-            <description><![CDATA[<article><h1>Introduction to Neural Machine Translation with GPUs (part 3)</h1><p>Note: This is the final part of a detailed three-part series on machine translation with neural networks by Kyunghyun Cho. You may enjoy part 1 and part 2. In the previous post in this series, I introduced a simple encoder-decoder model for machine translation. This simple encoder-decoder model is excellent at English-French translation.</p><img src="http://devblogs.nvidia.com/parallelforall/wp-content/uploads/sites/3/2015/07/Figure8_image_caption.png"></article>]]></description>
-            <link>http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/</link>
-            <guid isPermaLink="false">a8757516-78d2-4151-822e-59fc725833f8</guid>
             <pubDate>Sat, 22 Aug 2015 15:24:33 GMT</pubDate>
         </item>
     </channel>
