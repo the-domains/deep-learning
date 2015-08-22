@@ -5,8 +5,15 @@
         <description><![CDATA[Deep Learning]]></description>
         <link>https://thegrid.ai/deep-learning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 22 Aug 2015 15:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2015 15:25:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/deep-learning/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Full Hardware Guide to Deep Learning]]></title>
+            <description><![CDATA[<article><h1>A Full Hardware Guide to Deep Learning</h1><p>Deep Learning is very computationally intensive, so you will need a fast CPU with many cores, right? Or is it maybe wasteful to buy a fast CPU? One of the worst things you can do when building a deep learning system is to waste money on hardware that is unnecessary.</p><img src="https://timdettmers.files.wordpress.com/2015/03/suspectlineup.jpg?w=700&h=394"></article>]]></description>
+            <link>https://timdettmers.wordpress.com/2015/03/09/deep-learning-hardware-guide/</link>
+            <guid isPermaLink="false">dd08e856-bef5-4890-a1f5-d5b94f316c69</guid>
+            <pubDate>Sat, 22 Aug 2015 15:24:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Taking Humans out of the Deep Learning Loop - Ryan Adams, Harvard]]></title>
             <description><![CDATA[<article><h1>Taking Humans out of the Deep Learning Loop - Ryan Adams, Harvard</h1><img src="http://www.computervisiontalks.com/wp-content/uploads/2015/07/yt-VG2uCpKJkSg-1024x576.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Welcome to the AI Conspiracy: The 'Canadian Mafia' Behind Tech's Latest Craze</h1><p>In the late '90s, Tomi Poutanen, a precocious computer whiz from Finland, hoped to do his dissertation on neural networks, a scientific method aimed at teaching computers to act and think like humans. As a student at the University of Toronto, it was a logical choice.</p><img src="https://recodetech.files.wordpress.com/2015/07/bengio-lecun-2007.jpg?quality=60&strip=info&w=380&strip=info"></article>]]></description>
             <link>http://recode.net/2015/07/15/ai-conspiracy-the-scientists-behind-deep-learning/</link>
             <guid isPermaLink="false">70ce148f-67b3-441f-9b4f-882f59b372e5</guid>
-            <pubDate>Sat, 22 Aug 2015 15:24:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Machine Learning & Computer Vision Talks]]></title>
-            <description><![CDATA[<article><h1>Machine Learning & Computer Vision Talks</h1><img src="http://www.computervisiontalks.com/wp-content/uploads/2015/07/lfHX2hHRMVQ-420x220.jpg?4767fa"></article>]]></description>
-            <link>http://www.machinelearningtalks.com/tag/rl-course/</link>
-            <guid isPermaLink="false">8dc0fdcc-c5b8-4e9a-a197-c9bd33dce18d</guid>
             <pubDate>Sat, 22 Aug 2015 15:24:32 GMT</pubDate>
         </item>
     </channel>
