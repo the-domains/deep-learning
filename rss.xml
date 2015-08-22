@@ -5,8 +5,15 @@
         <description><![CDATA[Deep Learning]]></description>
         <link>https://thegrid.ai/deep-learning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 22 Aug 2015 15:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2015 15:25:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/deep-learning/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deep Learning Adversarial Examples - Clarifying Misconceptions]]></title>
+            <description><![CDATA[<article><h1>Deep Learning Adversarial Examples - Clarifying Misconceptions</h1><p>Google scientist clarifies misconceptions and myths around Deep Learning Adversarial Examples, including: they do not occur in practice, Deep Learning is more vulnerable to them, they can be easily solved, and human brains make similar mistakes. By Ian Goodfellow (Google).</p><img src="http://www.kdnuggets.com/images/panda.png"></article>]]></description>
+            <link>http://www.kdnuggets.com/2015/07/deep-learning-adversarial-examples-misconceptions.html</link>
+            <guid isPermaLink="false">aa81d114-f168-413d-8c58-fb06e1cc8541</guid>
+            <pubDate>Sat, 22 Aug 2015 15:24:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Introduction to Neural Machine Translation with GPUs (part 3)]]></title>
             <description><![CDATA[<article><h1>Introduction to Neural Machine Translation with GPUs (part 3)</h1><p>Note: This is the final part of a detailed three-part series on machine translation with neural networks by Kyunghyun Cho. You may enjoy part 1 and part 2. In the previous post in this series, I introduced a simple encoder-decoder model for machine translation. This simple encoder-decoder model is excellent at English-French translation.</p><img src="http://devblogs.nvidia.com/parallelforall/wp-content/uploads/sites/3/2015/07/Figure8_image_caption.png"></article>]]></description>
