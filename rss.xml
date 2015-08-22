@@ -5,11 +5,18 @@
         <description><![CDATA[Deep Learning]]></description>
         <link>https://thegrid.ai/deep-learning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 22 Aug 2015 15:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2015 15:25:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/deep-learning/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The Brain vs Deep Learning Part I: Computational Complexity - Or Why the Singularity Is Nowhere Near]]></title>
+            <description><![CDATA[<article><h1>The Brain vs Deep Learning Part I: Computational Complexity - Or Why the Singularity Is Nowhere Near</h1><p>In this blog post I will delve into the brain and explain its basic information processing machinery and compare it to deep learning. I do this by moving step-by-step along with the brains electrochemical and biological information processing pipeline and relating it directly to the architecture of convolutional nets.</p><img src="https://timdettmers.files.wordpress.com/2015/07/neuron_anatomy1.jpg?w=700"></article>]]></description>
+            <link>https://timdettmers.wordpress.com/2015/07/27/brain-vs-deep-learning-singularity/</link>
+            <guid isPermaLink="false">440dc782-45ee-4832-8b16-350ddb6df0cf</guid>
+            <pubDate>Sat, 22 Aug 2015 15:24:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Google: Our new system for recognizing faces is the best one ever]]></title>
-            <description><![CDATA[<article><h1>Google: Our new system for recognizing faces is the best one ever</h1><p>"I never forget a face," some people like to boast. It's a claim that looks quainter by the day as artificial intelligence research continues to advance. Some computers, it turns out, never forget 260 million faces.</p><img src="https://fortunedotcom.files.wordpress.com/2015/03/google-facial-recognition-figre1.png?w=577"></article>]]></description>
+            <description><![CDATA[<article><h1>Google: Our new system for recognizing faces is the best one ever</h1><p>"I never forget a face," some people like to boast. It's a claim that looks quainter by the day as artificial intelligence research continues to advance. Some computers, it turns out, never forget 260 million faces.</p><img src="https://fortunedotcom.files.wordpress.com/2015/03/google-facial-recognition-figre1.png"></article>]]></description>
             <link>http://fortune.com/2015/03/17/google-facenet-artificial-intelligence/?utm_content=buffer9118d&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">f6896912-53e7-4f1d-9e2a-82969198eedd</guid>
             <pubDate>Sat, 22 Aug 2015 15:24:34 GMT</pubDate>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Hugo Larochelle</h1><p>Voici la liste des sujets traités durant le cours, semaine après semaine. À chaque semaine sont associés des capsules vidéo explicatives, un article obligatoire à lire ainsi que des lectures optionnelles suggérées. La colonne " Date" correspond à la date de la semaine durant laquelle vous devez avoir visionné les vidéos.</p></article>]]></description>
             <link>http://info.usherbrooke.ca/hlarochelle/cours/ift725_A2013/contenu.html</link>
             <guid isPermaLink="false">ec48d87b-6906-4fdf-889f-07cf32b20223</guid>
-            <pubDate>Sat, 22 Aug 2015 15:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deep Learning Adversarial Examples - Clarifying Misconceptions]]></title>
-            <description><![CDATA[<article><h1>Deep Learning Adversarial Examples - Clarifying Misconceptions</h1><p>Google scientist clarifies misconceptions and myths around Deep Learning Adversarial Examples, including: they do not occur in practice, Deep Learning is more vulnerable to them, they can be easily solved, and human brains make similar mistakes. By Ian Goodfellow (Google).</p><img src="http://www.kdnuggets.com/images/panda.png"></article>]]></description>
-            <link>http://www.kdnuggets.com/2015/07/deep-learning-adversarial-examples-misconceptions.html</link>
-            <guid isPermaLink="false">aa81d114-f168-413d-8c58-fb06e1cc8541</guid>
             <pubDate>Sat, 22 Aug 2015 15:24:33 GMT</pubDate>
         </item>
     </channel>
