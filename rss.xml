@@ -5,8 +5,15 @@
         <description><![CDATA[Deep Learning]]></description>
         <link>https://thegrid.ai/deep-learning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 22 Aug 2015 15:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2015 15:25:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/deep-learning/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Facebook AI Director Yann LeCun on His Quest to Unleash Deep Learning and Make Machines Smarter]]></title>
+            <description><![CDATA[<article><h1>Facebook AI Director Yann LeCun on His Quest to Unleash Deep Learning and Make Machines Smarter</h1><p>Artificial intelligence has gone through some dismal periods, which those in the field gloomily refer to as "AI winters." This is not one of those times; in fact, AI is so hot right now that tech giants like Google, Facebook, Apple, Baidu, and Microsoft are battling for the leading minds in the field.</p><img src="http://spectrum.ieee.org/img/YannLeCunblogjpg-1423239900596.jpg"></article>]]></description>
+            <link>http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/facebook-ai-director-yann-lecun-on-deep-learning</link>
+            <guid isPermaLink="false">f4323b26-764b-4694-bce0-18c18d0a9356</guid>
+            <pubDate>Sat, 22 Aug 2015 15:24:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How does features extraction on images work? - Quora]]></title>
             <description><![CDATA[<article><h1>How does features extraction on images work? - Quora</h1><p>There is no single answer for this question since there are many diverse set of methods to extract feature from an image. First, what is called feature? "a distinctive attribute or aspect of something." so the thing is to have some set of values for a particular instance that diverse that instance from the counterparts.</p><img src="http://qph.is.quoracdn.net/main-qimg-c8e4e71c422c34a3cb18ee9323085c10?convert_to_webp=true"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Introduction to Neural Machine Translation with GPUs (part 3)</h1><p>Note: This is the final part of a detailed three-part series on machine translation with neural networks by Kyunghyun Cho. You may enjoy part 1 and part 2. In the previous post in this series, I introduced a simple encoder-decoder model for machine translation. This simple encoder-decoder model is excellent at English-French translation.</p><img src="http://devblogs.nvidia.com/parallelforall/wp-content/uploads/sites/3/2015/07/Figure8_image_caption.png"></article>]]></description>
             <link>http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/</link>
             <guid isPermaLink="false">a8757516-78d2-4151-822e-59fc725833f8</guid>
-            <pubDate>Sat, 22 Aug 2015 15:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Understanding Convolution in Deep Learning]]></title>
-            <description><![CDATA[<article><h1>Understanding Convolution in Deep Learning</h1><p>Convolution is probably the most important concept in deep learning right now. It was convolution and convolutional nets that catapulted deep learning to the forefront of almost any machine learning task there is. But what makes convolution so powerful? How does it work? In this blog post I will explain convolution and relate it to...</p><img src="https://timdettmers.files.wordpress.com/2015/03/autoencoder_fashion_features_and_results.png&h=882"></article>]]></description>
-            <link>https://timdettmers.wordpress.com/2015/03/26/convolution-deep-learning/#more-192</link>
-            <guid isPermaLink="false">1c6e54a4-d6f9-4947-9a31-b9ab35d30f05</guid>
             <pubDate>Sat, 22 Aug 2015 15:24:33 GMT</pubDate>
         </item>
     </channel>
