@@ -5,8 +5,15 @@
         <description><![CDATA[Deep Learning]]></description>
         <link>https://thegrid.ai/deep-learning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 22 Aug 2015 15:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2015 15:25:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/deep-learning/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Visualizing GoogLeNet Classes]]></title>
+            <description><![CDATA[<article><h1>Visualizing GoogLeNet Classes</h1><p>Ever wondered what a deep neural network thinks a Dalmatian should look like? Well, wonder no more. Recently Google published a post describing how they managed to use deep neural networks to generate class visualizations and modify images through the so called "inceptionism" method.</p><img src="http://auduno.github.io/deepdraw/images/deepdraw_example_0013.png"></article>]]></description>
+            <link>http://auduno.com/post/125362849838/visualizing-googlenet-classes</link>
+            <guid isPermaLink="false">7506cef9-1bbb-4f76-a80f-35f3bd7fefe9</guid>
+            <pubDate>Sat, 22 Aug 2015 15:24:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Deep Learning Playbook]]></title>
             <description><![CDATA[<article><h1>The Deep Learning Playbook</h1><p>Machine learning is the art and science of making predictions based on previous observations. Deep learning without doubt is THE hottest subfield of machine learning and it is ubiquitous in various state-of-the-art methods for problems like speech recognition (audio), object recognition (vision), natural language processing (communication).</p><img src="https://cdn-images-2.medium.com/max/800/0*pZA7YEXFFAOC9PhV.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Numenta, The Bruce Lee of AI and Deep Learning</h1><p>Growing new connections in your brain is more essential to learning than strengthening established connections. You may know how to be a tax lawyer because you've spent years strengthening your old tax law connections, but these are utterly useless when you take up ballroom dancing to find yourself a mate.</p><img src="http://content.science20.com/files/images/cnn.jpg"></article>]]></description>
             <link>http://www.science20.com/physics_foundations/blog/numenta_the_bruce_lee_of_ai_and_deep_learning-154801</link>
             <guid isPermaLink="false">d6f0dcd6-962d-4fd2-a2be-69be3f8e9df6</guid>
-            <pubDate>Sat, 22 Aug 2015 15:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Understanding Convolution in Deep Learning]]></title>
-            <description><![CDATA[<article><h1>Understanding Convolution in Deep Learning</h1><p>Convolution is probably the most important concept in deep learning right now. It was convolution and convolutional nets that catapulted deep learning to the forefront of almost any machine learning task there is. But what makes convolution so powerful? How does it work? In this blog post I will explain convolution and relate it to...</p><img src="https://timdettmers.files.wordpress.com/2015/03/autoencoder_fashion_features_and_results.png&h=882"></article>]]></description>
-            <link>https://timdettmers.wordpress.com/2015/03/26/convolution-deep-learning/#more-192</link>
-            <guid isPermaLink="false">cf4b5935-b242-42c0-890c-36e6cd679018</guid>
             <pubDate>Sat, 22 Aug 2015 15:24:33 GMT</pubDate>
         </item>
     </channel>
