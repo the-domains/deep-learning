@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[Deep Learning]]></title>
         <description><![CDATA[Deep Learning]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/deep-learning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 22 Aug 2015 15:24:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 22 Aug 2015 15:24:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/deep-learning/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to the AI Conspiracy: The 'Canadian Mafia' Behind Tech's Latest Craze]]></title>
+            <description><![CDATA[<article><h1>Welcome to the AI Conspiracy: The 'Canadian Mafia' Behind Tech's Latest Craze</h1><p>In the late '90s, Tomi Poutanen, a precocious computer whiz from Finland, hoped to do his dissertation on neural networks, a scientific method aimed at teaching computers to act and think like humans. As a student at the University of Toronto, it was a logical choice.</p><img src="https://recodetech.files.wordpress.com/2015/07/bengio-lecun-2007.jpg?quality=60&strip=info&w=380&strip=info"></article>]]></description>
+            <link>http://recode.net/2015/07/15/ai-conspiracy-the-scientists-behind-deep-learning/</link>
+            <guid isPermaLink="false">70ce148f-67b3-441f-9b4f-882f59b372e5</guid>
+            <pubDate>Sat, 22 Aug 2015 15:24:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Machine Learning & Computer Vision Talks]]></title>
             <description><![CDATA[<article><h1>Machine Learning & Computer Vision Talks</h1><img src="http://www.computervisiontalks.com/wp-content/uploads/2015/07/lfHX2hHRMVQ-420x220.jpg?4767fa"></article>]]></description>
