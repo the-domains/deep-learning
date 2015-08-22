@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://timdettmers.wordpress.com/2015/03/26/convolution-deep-learning/#more-192'
 title: Understanding Convolution in Deep Learning
-datePublished: '2015-08-22T15:24:33.085Z'
-dateModified: '2015-08-22T15:24:33.085Z'
+datePublished: '2015-08-22T15:24:33.664Z'
+dateModified: '2015-08-22T15:24:33.664Z'
 sourcePath: _posts/2015-08-22-understanding-convolution-in-deep-learning.md
 published: true
 _context: 'http://schema.org'
