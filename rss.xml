@@ -5,8 +5,15 @@
         <description><![CDATA[Deep Learning]]></description>
         <link>https://thegrid.ai/deep-learning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 22 Aug 2015 15:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2015 15:25:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/deep-learning/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hugo Larochelle]]></title>
+            <description><![CDATA[<article><h1>Hugo Larochelle</h1><p>Voici la liste des sujets traités durant le cours, semaine après semaine. À chaque semaine sont associés des capsules vidéo explicatives, un article obligatoire à lire ainsi que des lectures optionnelles suggérées. La colonne " Date" correspond à la date de la semaine durant laquelle vous devez avoir visionné les vidéos.</p></article>]]></description>
+            <link>http://info.usherbrooke.ca/hlarochelle/cours/ift725_A2013/contenu.html</link>
+            <guid isPermaLink="false">ec48d87b-6906-4fdf-889f-07cf32b20223</guid>
+            <pubDate>Sat, 22 Aug 2015 15:24:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Deep Learning Adversarial Examples - Clarifying Misconceptions]]></title>
             <description><![CDATA[<article><h1>Deep Learning Adversarial Examples - Clarifying Misconceptions</h1><p>Google scientist clarifies misconceptions and myths around Deep Learning Adversarial Examples, including: they do not occur in practice, Deep Learning is more vulnerable to them, they can be easily solved, and human brains make similar mistakes. By Ian Goodfellow (Google).</p><img src="http://www.kdnuggets.com/images/panda.png"></article>]]></description>
