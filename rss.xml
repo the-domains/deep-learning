@@ -5,11 +5,18 @@
         <description><![CDATA[Deep Learning]]></description>
         <link>https://thegrid.ai/deep-learning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 22 Aug 2015 15:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2015 15:25:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/deep-learning/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The Deep Learning Playbook]]></title>
+            <description><![CDATA[<article><h1>The Deep Learning Playbook</h1><p>Machine learning is the art and science of making predictions based on previous observations. Deep learning without doubt is THE hottest subfield of machine learning and it is ubiquitous in various state-of-the-art methods for problems like speech recognition (audio), object recognition (vision), natural language processing (communication).</p><img src="https://cdn-images-2.medium.com/max/800/0*pZA7YEXFFAOC9PhV.jpg"></article>]]></description>
+            <link>https://medium.com/@jiefeng/deep-learning-playbook-c5ebe34f8a1a</link>
+            <guid isPermaLink="false">77804b2d-19ef-4cd1-8c05-8f9f999f8fb6</guid>
+            <pubDate>Sat, 22 Aug 2015 15:24:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Brain vs Deep Learning Part I: Computational Complexity - Or Why the Singularity Is Nowhere Near]]></title>
-            <description><![CDATA[<article><h1>The Brain vs Deep Learning Part I: Computational Complexity - Or Why the Singularity Is Nowhere Near</h1><p>In this blog post I will delve into the brain and explain its basic information processing machinery and compare it to deep learning. I do this by moving step-by-step along with the brains electrochemical and biological information processing pipeline and relating it directly to the architecture of convolutional nets.</p><img src="https://timdettmers.files.wordpress.com/2015/07/neuron_anatomy1.jpg?w=700"></article>]]></description>
+            <description><![CDATA[<article><h1>The Brain vs Deep Learning Part I: Computational Complexity - Or Why the Singularity Is Nowhere Near</h1><p>In this blog post I will delve into the brain and explain its basic information processing machinery and compare it to deep learning. I do this by moving step-by-step along with the brains electrochemical and biological information processing pipeline and relating it directly to the architecture of convolutional nets.</p><img src="https://timdettmers.files.wordpress.com/2015/07/neuron_anatomy1.jpg"></article>]]></description>
             <link>https://timdettmers.wordpress.com/2015/07/27/brain-vs-deep-learning-singularity/</link>
             <guid isPermaLink="false">440dc782-45ee-4832-8b16-350ddb6df0cf</guid>
             <pubDate>Sat, 22 Aug 2015 15:24:34 GMT</pubDate>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Understanding Convolution in Deep Learning</h1><p>Convolution is probably the most important concept in deep learning right now. It was convolution and convolutional nets that catapulted deep learning to the forefront of almost any machine learning task there is. But what makes convolution so powerful? How does it work? In this blog post I will explain convolution and relate it to...</p><img src="https://timdettmers.files.wordpress.com/2015/03/autoencoder_fashion_features_and_results.png&h=882"></article>]]></description>
             <link>https://timdettmers.wordpress.com/2015/03/26/convolution-deep-learning/#more-192</link>
             <guid isPermaLink="false">cf4b5935-b242-42c0-890c-36e6cd679018</guid>
-            <pubDate>Sat, 22 Aug 2015 15:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hugo Larochelle]]></title>
-            <description><![CDATA[<article><h1>Hugo Larochelle</h1><p>Voici la liste des sujets traités durant le cours, semaine après semaine. À chaque semaine sont associés des capsules vidéo explicatives, un article obligatoire à lire ainsi que des lectures optionnelles suggérées. La colonne " Date" correspond à la date de la semaine durant laquelle vous devez avoir visionné les vidéos.</p></article>]]></description>
-            <link>http://info.usherbrooke.ca/hlarochelle/cours/ift725_A2013/contenu.html</link>
-            <guid isPermaLink="false">ec48d87b-6906-4fdf-889f-07cf32b20223</guid>
             <pubDate>Sat, 22 Aug 2015 15:24:33 GMT</pubDate>
         </item>
     </channel>
