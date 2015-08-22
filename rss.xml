@@ -5,8 +5,15 @@
         <description><![CDATA[Deep Learning]]></description>
         <link>https://thegrid.ai/deep-learning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 22 Aug 2015 15:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2015 15:24:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/deep-learning/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Understanding Convolution in Deep Learning]]></title>
+            <description><![CDATA[<article><h1>Understanding Convolution in Deep Learning</h1><p>Convolution is probably the most important concept in deep learning right now. It was convolution and convolutional nets that catapulted deep learning to the forefront of almost any machine learning task there is. But what makes convolution so powerful? How does it work? In this blog post I will explain convolution and relate it to...</p><img src="https://timdettmers.files.wordpress.com/2015/03/autoencoder_fashion_features_and_results.png?w=700&h=882"></article>]]></description>
+            <link>https://timdettmers.wordpress.com/2015/03/26/convolution-deep-learning/#more-192</link>
+            <guid isPermaLink="false">1c6e54a4-d6f9-4947-9a31-b9ab35d30f05</guid>
+            <pubDate>Sat, 22 Aug 2015 15:24:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome to the AI Conspiracy: The 'Canadian Mafia' Behind Tech's Latest Craze]]></title>
             <description><![CDATA[<article><h1>Welcome to the AI Conspiracy: The 'Canadian Mafia' Behind Tech's Latest Craze</h1><p>In the late '90s, Tomi Poutanen, a precocious computer whiz from Finland, hoped to do his dissertation on neural networks, a scientific method aimed at teaching computers to act and think like humans. As a student at the University of Toronto, it was a logical choice.</p><img src="https://recodetech.files.wordpress.com/2015/07/bengio-lecun-2007.jpg?quality=60&strip=info&w=380&strip=info"></article>]]></description>
