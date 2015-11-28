@@ -4,8 +4,15 @@
         <description><![CDATA[Deep Learning]]></description>
         <link>https://thegrid.ai/deep-learning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 16:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2015 16:09:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/deep-learning/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bayesian Reasoning and Deep Learning]]></title>
+            <description><![CDATA[<article><h1>Bayesian Reasoning and Deep Learning</h1><p>I gave a talk entitled 'Bayesian Reasoning and Deep Learning' recently. Here is the abstract and the slides for interest. Deep learning and Bayesian machine learning are currently two of the most active areas of machine learning research.</p><img src="http://blog.shakirm.com/wp-content/uploads/2015/10/bayesDeep.png"></article>]]></description>
+            <link>http://blog.shakirm.com/2015/10/bayesian-reasoning-and-deep-learning/</link>
+            <guid isPermaLink="false">2c3786ae-ac88-483d-9081-cc5d6d5cc28a</guid>
+            <pubDate>Sat, 28 Nov 2015 16:08:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Convolutional autoencoders in python/theano/lasagne]]></title>
             <description><![CDATA[<article><h1>Convolutional autoencoders in python/theano/lasagne</h1><p>If you are just looking for code for a convolutional autoencoder in python, look at this git. It needs quite a few python dependencies, the only non-standard ones are theano, nolearn, and lasagne (make sure they are up to date). Also there is a section at the end of this post that explains it.</p><img src="https://swarbrickjones.files.wordpress.com/2015/04/blobs1.png?w=352&h=914"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://machinelearningtalks.com/taking-humans-out-of-the-deep-learning-loop-ryan-adams-harvard</link>
             <guid isPermaLink="false">057538a1-0037-4c3f-8634-1912e402d47e</guid>
             <pubDate>Sat, 22 Aug 2015 15:24:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's Wrong with Deep Learning? | TechTalks.tv]]></title>
-            <description><![CDATA[<article><h1>What's Wrong with Deep Learning? | TechTalks.tv</h1><p>TechTalks.tv is making it super-easy to publish, search and learn from slide-based videos, all in order to share educational content on the web.</p><img src="http://techtalks.tv/site_media/static/img/no_image.png"></article>]]></description>
-            <link>http://techtalks.tv/talks/whats-wrong-with-deep-learning/61639/</link>
-            <guid isPermaLink="false">ccc7a4be-f127-4313-af70-2c5d0c059fcd</guid>
-            <pubDate>Sat, 22 Aug 2015 15:24:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
