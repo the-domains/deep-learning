@@ -4,8 +4,15 @@
         <description><![CDATA[Deep Learning]]></description>
         <link>https://thegrid.ai/deep-learning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 16:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2015 16:10:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/deep-learning/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Watch a neural network describe what it sees on a stroll through Amsterdam]]></title>
+            <description><![CDATA[<article><h1>Watch a neural network describe what it sees on a stroll through Amsterdam</h1><p>In the last few years computers have made massive advances in image recognition. Neural networks especially - systems which can be trained over time - have become eerily good at describing even quite complex scenes. However, as this video from US artist and coder Kyle McDonald shows, they're far from 100 percent accurate.</p><img src="https://cdn1.vox-cdn.com/thumbor/0cXRBoOuOthkv7b5Lqy73jDpz70=/0x0:577x325/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/47738841/Screen_Shot_2015-11-25_at_10.56.10_AM.0.0.png"></article>]]></description>
+            <link>http://www.theverge.com/2015/11/25/9798448/neural-network-describe-live-video-neuraltalk</link>
+            <guid isPermaLink="false">6fe29f61-7c83-4f40-8c14-3393803c622b</guid>
+            <pubDate>Sat, 28 Nov 2015 16:08:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Recurrent Neural Networks Tutorial, Part 1 - Introduction to RNNs]]></title>
             <description><![CDATA[<article><h1>Recurrent Neural Networks Tutorial, Part 1 - Introduction to RNNs</h1><p>Recurrent Neural Networks (RNNs) are popular models that have shown great promise in many NLP tasks. But despite their recent popularity I've only found a limited number of resources that throughly explain how RNNs work, and how to implement them. That's what this tutorial is about.</p><img src="http://d3kbpzbmcynnmx.cloudfront.net/wp-content/uploads/2015/09/rnn.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Facebook AI Director Yann LeCun on His Quest to Unleash Deep Learning and Make Machines Smarter</h1><p>Artificial intelligence has gone through some dismal periods, which those in the field gloomily refer to as "AI winters." This is not one of those times; in fact, AI is so hot right now that tech giants like Google, Facebook, Apple, Baidu, and Microsoft are battling for the leading minds in the field.</p><img src="http://spectrum.ieee.org/img/YannLeCunblogjpg-1423239900596.jpg"></article>]]></description>
             <link>http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/facebook-ai-director-yann-lecun-on-deep-learning</link>
             <guid isPermaLink="false">f4323b26-764b-4694-bce0-18c18d0a9356</guid>
-            <pubDate>Sat, 22 Aug 2015 15:24:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How does features extraction on images work? - Quora]]></title>
-            <description><![CDATA[<article><h1>How does features extraction on images work? - Quora</h1><p>There is no single answer for this question since there are many diverse set of methods to extract feature from an image. First, what is called feature? "a distinctive attribute or aspect of something." so the thing is to have some set of values for a particular instance that diverse that instance from the counterparts.</p><img src="http://qph.is.quoracdn.net/main-qimg-c8e4e71c422c34a3cb18ee9323085c10?convert_to_webp=true"></article>]]></description>
-            <link>http://www.quora.com/How-does-features-extraction-on-images-work</link>
-            <guid isPermaLink="false">57cfc109-fd0c-4cb6-ac88-7ba7c4955973</guid>
             <pubDate>Sat, 22 Aug 2015 15:24:34 GMT</pubDate>
         </item>
     </channel>
