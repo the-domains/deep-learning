@@ -4,8 +4,15 @@
         <description><![CDATA[Deep Learning]]></description>
         <link>https://thegrid.ai/deep-learning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 16:09:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2015 16:09:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/deep-learning/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Spatio-Temporal Convolutional Sparse Auto-Encoder for Sequence Classification]]></title>
+            <description><![CDATA[<article><h1>Spatio-Temporal Convolutional Sparse Auto-Encoder for Sequence Classification</h1><p>We present in this paper a novel learning-based approach for video sequence classification. Contrary to the dominant methodology, which relies on hand-crafted features that are manually engineered to be optimal for a specific task, our neural model automatically learns a sparse shift-invariant representation of the local 2D+t salient information, without any use of prior knowledge.</p><img src="http://hydro.ijs.si/v00c/ce/zyxhsipbrkazu2nqg2b2b627es6v2ikp.jpg"></article>]]></description>
+            <link>http://videolectures.net/bmvc2012_baccouche_sequence_classification/</link>
+            <guid isPermaLink="false">49d1915f-6b9f-4aa8-b7d3-8f10e7d9d965</guid>
+            <pubDate>Sat, 28 Nov 2015 16:08:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bayesian Reasoning and Deep Learning]]></title>
             <description><![CDATA[<article><h1>Bayesian Reasoning and Deep Learning</h1><p>I gave a talk entitled 'Bayesian Reasoning and Deep Learning' recently. Here is the abstract and the slides for interest. Deep learning and Bayesian machine learning are currently two of the most active areas of machine learning research.</p><img src="http://blog.shakirm.com/wp-content/uploads/2015/10/bayesDeep.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>A Full Hardware Guide to Deep Learning</h1><p>Deep Learning is very computationally intensive, so you will need a fast CPU with many cores, right? Or is it maybe wasteful to buy a fast CPU? One of the worst things you can do when building a deep learning system is to waste money on hardware that is unnecessary.</p><img src="https://timdettmers.files.wordpress.com/2015/03/suspectlineup.jpg&h=394"></article>]]></description>
             <link>https://timdettmers.wordpress.com/2015/03/09/deep-learning-hardware-guide/</link>
             <guid isPermaLink="false">dd08e856-bef5-4890-a1f5-d5b94f316c69</guid>
-            <pubDate>Sat, 22 Aug 2015 15:24:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Taking Humans out of the Deep Learning Loop - Ryan Adams, Harvard]]></title>
-            <description><![CDATA[<article><h1>Taking Humans out of the Deep Learning Loop - Ryan Adams, Harvard</h1><img src="http://www.computervisiontalks.com/wp-content/uploads/2015/07/yt-VG2uCpKJkSg-1024x576.jpg"></article>]]></description>
-            <link>http://machinelearningtalks.com/taking-humans-out-of-the-deep-learning-loop-ryan-adams-harvard</link>
-            <guid isPermaLink="false">057538a1-0037-4c3f-8634-1912e402d47e</guid>
             <pubDate>Sat, 22 Aug 2015 15:24:34 GMT</pubDate>
         </item>
     </channel>
