@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Deep Learning]]></title>
+        <description><![CDATA[Deep Learning]]></description>
+        <link>https://thegrid.ai/deep-learning/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 28 Nov 2015 16:08:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/deep-learning/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Convolutional autoencoders in python/theano/lasagne]]></title>
+            <description><![CDATA[<article><h1>Convolutional autoencoders in python/theano/lasagne</h1><p>If you are just looking for code for a convolutional autoencoder in python, look at this git. It needs quite a few python dependencies, the only non-standard ones are theano, nolearn, and lasagne (make sure they are up to date). Also there is a section at the end of this post that explains it.</p><img src="https://swarbrickjones.files.wordpress.com/2015/04/blobs1.png?w=352&h=914"></article>]]></description>
+            <link>https://swarbrickjones.wordpress.com/2015/04/29/convolutional-autoencoders-in-pythontheanolasagne/</link>
+            <guid isPermaLink="false">c6a26f08-52be-4a9b-8e93-8b3a5d212c74</guid>
+            <pubDate>Sat, 28 Nov 2015 16:08:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Visualizing GoogLeNet Classes]]></title>
+            <description><![CDATA[<article><h1>Visualizing GoogLeNet Classes</h1><p>Ever wondered what a deep neural network thinks a Dalmatian should look like? Well, wonder no more. Recently Google published a post describing how they managed to use deep neural networks to generate class visualizations and modify images through the so called "inceptionism" method.</p><img src="http://auduno.github.io/deepdraw/images/deepdraw_example_0013.png"></article>]]></description>
+            <link>http://auduno.com/post/125362849838/visualizing-googlenet-classes</link>
+            <guid isPermaLink="false">7506cef9-1bbb-4f76-a80f-35f3bd7fefe9</guid>
+            <pubDate>Sat, 22 Aug 2015 15:24:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Deep Learning Playbook]]></title>
+            <description><![CDATA[<article><h1>The Deep Learning Playbook</h1><p>Machine learning is the art and science of making predictions based on previous observations. Deep learning without doubt is THE hottest subfield of machine learning and it is ubiquitous in various state-of-the-art methods for problems like speech recognition (audio), object recognition (vision), natural language processing (communication).</p><img src="https://cdn-images-2.medium.com/max/800/0*pZA7YEXFFAOC9PhV.jpg"></article>]]></description>
+            <link>https://medium.com/@jiefeng/deep-learning-playbook-c5ebe34f8a1a</link>
+            <guid isPermaLink="false">77804b2d-19ef-4cd1-8c05-8f9f999f8fb6</guid>
+            <pubDate>Sat, 22 Aug 2015 15:24:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Brain vs Deep Learning Part I: Computational Complexity - Or Why the Singularity Is Nowhere Near]]></title>
+            <description><![CDATA[<article><h1>The Brain vs Deep Learning Part I: Computational Complexity - Or Why the Singularity Is Nowhere Near</h1><p>In this blog post I will delve into the brain and explain its basic information processing machinery and compare it to deep learning. I do this by moving step-by-step along with the brains electrochemical and biological information processing pipeline and relating it directly to the architecture of convolutional nets.</p><img src="https://timdettmers.files.wordpress.com/2015/07/neuron_anatomy1.jpg"></article>]]></description>
+            <link>https://timdettmers.wordpress.com/2015/07/27/brain-vs-deep-learning-singularity/</link>
+            <guid isPermaLink="false">440dc782-45ee-4832-8b16-350ddb6df0cf</guid>
+            <pubDate>Sat, 22 Aug 2015 15:24:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google: Our new system for recognizing faces is the best one ever]]></title>
+            <description><![CDATA[<article><h1>Google: Our new system for recognizing faces is the best one ever</h1><p>"I never forget a face," some people like to boast. It's a claim that looks quainter by the day as artificial intelligence research continues to advance. Some computers, it turns out, never forget 260 million faces.</p><img src="https://fortunedotcom.files.wordpress.com/2015/03/google-facial-recognition-figre1.png"></article>]]></description>
+            <link>http://fortune.com/2015/03/17/google-facenet-artificial-intelligence/?utm_content=buffer9118d&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">f6896912-53e7-4f1d-9e2a-82969198eedd</guid>
+            <pubDate>Sat, 22 Aug 2015 15:24:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook AI Director Yann LeCun on His Quest to Unleash Deep Learning and Make Machines Smarter]]></title>
+            <description><![CDATA[<article><h1>Facebook AI Director Yann LeCun on His Quest to Unleash Deep Learning and Make Machines Smarter</h1><p>Artificial intelligence has gone through some dismal periods, which those in the field gloomily refer to as "AI winters." This is not one of those times; in fact, AI is so hot right now that tech giants like Google, Facebook, Apple, Baidu, and Microsoft are battling for the leading minds in the field.</p><img src="http://spectrum.ieee.org/img/YannLeCunblogjpg-1423239900596.jpg"></article>]]></description>
+            <link>http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/facebook-ai-director-yann-lecun-on-deep-learning</link>
+            <guid isPermaLink="false">f4323b26-764b-4694-bce0-18c18d0a9356</guid>
+            <pubDate>Sat, 22 Aug 2015 15:24:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How does features extraction on images work? - Quora]]></title>
+            <description><![CDATA[<article><h1>How does features extraction on images work? - Quora</h1><p>There is no single answer for this question since there are many diverse set of methods to extract feature from an image. First, what is called feature? "a distinctive attribute or aspect of something." so the thing is to have some set of values for a particular instance that diverse that instance from the counterparts.</p><img src="http://qph.is.quoracdn.net/main-qimg-c8e4e71c422c34a3cb18ee9323085c10?convert_to_webp=true"></article>]]></description>
+            <link>http://www.quora.com/How-does-features-extraction-on-images-work</link>
+            <guid isPermaLink="false">57cfc109-fd0c-4cb6-ac88-7ba7c4955973</guid>
+            <pubDate>Sat, 22 Aug 2015 15:24:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Full Hardware Guide to Deep Learning]]></title>
+            <description><![CDATA[<article><h1>A Full Hardware Guide to Deep Learning</h1><p>Deep Learning is very computationally intensive, so you will need a fast CPU with many cores, right? Or is it maybe wasteful to buy a fast CPU? One of the worst things you can do when building a deep learning system is to waste money on hardware that is unnecessary.</p><img src="https://timdettmers.files.wordpress.com/2015/03/suspectlineup.jpg&h=394"></article>]]></description>
+            <link>https://timdettmers.wordpress.com/2015/03/09/deep-learning-hardware-guide/</link>
+            <guid isPermaLink="false">dd08e856-bef5-4890-a1f5-d5b94f316c69</guid>
+            <pubDate>Sat, 22 Aug 2015 15:24:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Taking Humans out of the Deep Learning Loop - Ryan Adams, Harvard]]></title>
+            <description><![CDATA[<article><h1>Taking Humans out of the Deep Learning Loop - Ryan Adams, Harvard</h1><img src="http://www.computervisiontalks.com/wp-content/uploads/2015/07/yt-VG2uCpKJkSg-1024x576.jpg"></article>]]></description>
+            <link>http://machinelearningtalks.com/taking-humans-out-of-the-deep-learning-loop-ryan-adams-harvard</link>
+            <guid isPermaLink="false">057538a1-0037-4c3f-8634-1912e402d47e</guid>
+            <pubDate>Sat, 22 Aug 2015 15:24:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's Wrong with Deep Learning? | TechTalks.tv]]></title>
+            <description><![CDATA[<article><h1>What's Wrong with Deep Learning? | TechTalks.tv</h1><p>TechTalks.tv is making it super-easy to publish, search and learn from slide-based videos, all in order to share educational content on the web.</p><img src="http://techtalks.tv/site_media/static/img/no_image.png"></article>]]></description>
+            <link>http://techtalks.tv/talks/whats-wrong-with-deep-learning/61639/</link>
+            <guid isPermaLink="false">ccc7a4be-f127-4313-af70-2c5d0c059fcd</guid>
+            <pubDate>Sat, 22 Aug 2015 15:24:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
