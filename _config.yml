@@ -1,7 +1,7 @@
 name: Deep Learning
 favicon: null
-layout_spectrum: 0.49413
-typography_spectrum: 0.25065
+layout_spectrum: 0.24879
+typography_spectrum: 0.88084
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#7a7043'
     - '#82d3c8'
   brandStrength: 0.5
-  lightness: 0.5
+  lightness: 0.125
   saturation: 0.5
   rhythmicContrast: 0.25
 purpose:
